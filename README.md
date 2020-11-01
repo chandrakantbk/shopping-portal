@@ -29,10 +29,17 @@ git config --local user.email 'sk@github.com'
 git commit -m "initiated assets"
 
 Project contributors:
-1- Chandrakant Kamble 
-2- Suryakant Kamble 
-3- Namrata Jain
-4- Arushi Gupta
-5- Kanchan Shinde
-6- Trupti Kandekar 
-7- Sanjay Joshi 
+
+1- Chandrakant
+
+2- Suryakant 
+
+3- Namrata
+
+4- Arushi
+
+5- Kanchan
+
+6- Trupti 
+
+7- Sanjay 
